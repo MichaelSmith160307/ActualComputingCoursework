@@ -1,0 +1,33 @@
+.signup{
+    background-color: orange;
+    color:white;
+}
+
+.topleft{
+    position: fixed;
+    top: 5%;
+    left: 50%;
+}
+.topcentreleft{
+    position: fixed;
+    top: 5%;
+    left: 42%;
+}
+
+.topright{
+    position: fixed;
+    top: 5%;
+    left:0%;
+}
+
+.centretopright{
+    position:fixed;
+    top: 5%;
+    left:30%;
+}
+.centre{
+    position:fixed;
+    top:20%;
+    left:20%;
+}
+
